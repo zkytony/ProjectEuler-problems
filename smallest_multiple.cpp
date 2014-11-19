@@ -22,7 +22,8 @@
   All others are included in the previous numbers. 
   ANSWER: 2^4 * 3^2 * 5 * 7 * 11 * 13 * 17 * 19 = 232 792 560
 
-  My solution is dumb
+  My solution is dumb -- I got this in 15 min
+  But I found that if the number needs to divide 20 * 19, and 19 * 18, and so on
  */
 
 #include <iostream>
